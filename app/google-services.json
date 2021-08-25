@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "366726101788",
+    "firebase_url": "https://personal-blog-1fd5a.firebaseio.com",
+    "project_id": "personal-blog-1fd5a",
+    "storage_bucket": "personal-blog-1fd5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366726101788:android:38b50a5eb23e07d264d8d9",
+        "android_client_info": {
+          "package_name": "com.godohdev.themoviedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366726101788-vjtfl8spt4sbhd92l2j9l17ska6fh29v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXVYibmk4JsiUcGKWi9YJcO4szLEZG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366726101788-vjtfl8spt4sbhd92l2j9l17ska6fh29v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366726101788:android:32f74464c27a561e64d8d9",
+        "android_client_info": {
+          "package_name": "id.godohembon.kuykost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366726101788-vjtfl8spt4sbhd92l2j9l17ska6fh29v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXVYibmk4JsiUcGKWi9YJcO4szLEZG_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366726101788-vjtfl8spt4sbhd92l2j9l17ska6fh29v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
